@@ -4,7 +4,7 @@ import React from 'react'
 const Header = () => {
   return (
     <header className='center'>
-      <img src='https://res.cloudinary.com/duj93wpnu/image/upload/v1620062622/d6j1jrs-c16bbc3d-0980-4ca5-badc-c173ce1b0219_jtlt78.jpg' alt='logo' />
+      <img src='https://res.cloudinary.com/duj93wpnu/image/upload/v1620062794/logo_zmpo4j.png' alt='logo' />
     </header>
   )
 }
