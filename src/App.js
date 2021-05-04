@@ -22,7 +22,7 @@ const App = () => {
       setIsLoading(false);
     }
     fetchItems()
-  }, [query])
+  }, [query]) //whenever this value is changes - useEffect fires off again
 
   return (
     <div className="container">
